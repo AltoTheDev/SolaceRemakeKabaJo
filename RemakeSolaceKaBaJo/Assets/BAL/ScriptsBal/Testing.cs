@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Scenemanager; 
+using UnityEngine; 
 
 public class Testing : MonoBehaviour
 {
